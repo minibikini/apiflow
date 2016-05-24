@@ -1,0 +1,11 @@
+[package]
+name = "flow"
+version = "0.1.0"
+readme = "README.md"
+repository = "https://github.com/minibikini/flow"
+authors = ["Egor Kislitsyn <egor@kislitsyn.com>"]
+
+[dependencies]
+
+[dependencies.iron]
+version = "*"
